@@ -1,1 +1,1 @@
-# OIBSIP
+# churn prediction in telecom industry
